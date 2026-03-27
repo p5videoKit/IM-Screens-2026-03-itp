@@ -6,7 +6,7 @@
 
 - clone ims-2026-jht-nyu for review
 
-- [ims-2026-jht-nyu](https://github.com/jht9629-nyu/ims-2026-jht-nyu.git)
+- [ims-2026-jht-nyu](https://github.com/jht9629-nyu/ims-2026-jht.git)
 
 ## Using Time
 

@@ -15,7 +15,7 @@
 
 ## What's new
 
-- [ims-2026-jht-nyu](https://github.com/jht9629-nyu/ims-2026-jht-nyu)
+- [ims-2026-jht-nyu](https://github.com/jht9629-nyu/ims-2026-jht)
 
 ## p5mirror check
 

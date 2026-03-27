@@ -20,7 +20,7 @@
 
 - [p5mirror-jht9629-nyu](https://jht9629-nyu.github.io/p5mirror-jht9629-nyu/downloads/gen/sketches_recent.html)
 
-- [repo - ims-2026-jht-nyu](https://github.com/jht9629-nyu/ims-2026-jht-nyu)
+- [repo - ims-2026-jht-nyu](https://github.com/jht9629-nyu/ims-2026-jht)
 
 - [sketch - ims_week1 v0 Xueyu333 floMirror fix](https://editor.p5js.org/jht9629-nyu/sketches/1MbhCPM60)
 
