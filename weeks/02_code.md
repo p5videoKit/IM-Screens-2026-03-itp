@@ -62,6 +62,10 @@
 
 - wiki page review / update
 
+## github pages
+
+- hosting you sketches on the web
+
 ## Homework Week02
 
 - prepare a p5js sketch to display on a big screen
@@ -72,7 +76,7 @@
 - update your wiki page with notes on your experience
 
 - add a link to your sketch on the [wiki home page](https://github.com/p5videoKit/IM-Screens-2026-03-itp/wiki#week-02-homework)
-- you can work locally in a from a github repo (recommend), but still make a copy of sketch in p5js editor for link above
+- you can work locally in your github repo (recommend), but still make a copy of sketch in p5js editor for link above
 
 - enter any questions or notes on your wiki page
 - you can use your prefered blogging tool for extensive notes
@@ -85,10 +89,6 @@
 # https://github.com/p5videoKit/IM-Screens-2026-03-itp/wiki
 git clone https://github.com/p5videoKit/IM-Screens-2026-03-itp.wiki.git
 ```
-
-## github pages
-
-- hosting you sketches on the web
 
 ## google summer of code
 
