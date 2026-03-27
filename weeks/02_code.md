@@ -96,6 +96,12 @@ git clone https://github.com/p5videoKit/IM-Screens-2026-03-itp.wiki.git
 
 ## whats new in p5js 2.0?
 
+- https://thecodingtrain.com/tracks/p5js-2.0
+  - What's new in p5.js 2!
+
+- https://www.youtube.com/watch?v=KR61bXsPlLU
+  - What is Transformers.js?
+
 - https://github.com/processing/p5.js/releases/tag/v2.0.0
 
 - https://beta.p5js.org/tutorials/#2.0
@@ -104,11 +110,3 @@ git clone https://github.com/p5videoKit/IM-Screens-2026-03-itp.wiki.git
 - https://beta.p5js.org/tutorials/intro-to-p5-strands/
 - https://beta.p5js.org/reference/p5/colormode/
 - https://beta.p5js.org/reference/p5/async_await/
-
-## machine learning for Dan Shifman
-
-- https://www.youtube.com/watch?v=KR61bXsPlLU
-  - What is Transformers.js?
-
-- https://thecodingtrain.com/tracks/p5js-2.0
-  - What's new in p5.js 2!
