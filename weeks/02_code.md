@@ -92,7 +92,9 @@ git clone https://github.com/p5videoKit/IM-Screens-2026-03-itp.wiki.git
 
 ## google summer of code
 
-[google summer of code](https://summerofcode.withgoogle.com/)
+- [google summer of code](https://summerofcode.withgoogle.com/)
+- https://summerofcode.withgoogle.com/programs/2026/organizations/processing-foundation
+- https://github.com/processing/Processing-Foundation-GSoC/wiki/Project-Ideas-List-(GSoC-2026)
 
 ## whats new in p5js 2.0?
 
