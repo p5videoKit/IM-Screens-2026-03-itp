@@ -93,3 +93,16 @@ git clone https://github.com/p5videoKit/IM-Screens-2026-03-itp.wiki.git
 ## google summer of code
 
 [google summer of code](https://summerofcode.withgoogle.com/)
+
+## whats new in p5js 2.0?
+
+```
+https://beta.p5js.org/tutorials/typography-20/
+https://beta.p5js.org/tutorials/intro-to-p5-strands/
+https://beta.p5js.org/reference/p5/colormode/
+https://beta.p5js.org/reference/p5/async_await/
+
+https://beta.p5js.org/tutorials/#2.0
+
+https://github.com/processing/p5.js/releases/tag/v2.0.0
+```
