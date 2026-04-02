@@ -28,7 +28,7 @@
   - color pops on at wrap around - no rate regulation
 
 - https://editor.p5js.org/jht9629-nyu/sketches/ZpoPuHXRo
-- ims04-jht scroll color bars - no pop
+  - ims04-jht scroll color bars - no pop
 
 - https://editor.p5js.org/jht9629-nyu/sketches/2pxhnehBV
   - ims04-jht scroll color rate
