@@ -91,10 +91,11 @@ Must run locally or in web browser to use url parameters
 ## Homework Week03
 
 - Expand your full screen p5js sketch or create a new one that:
-  - uses url parameters to control the appearance of your sketch
-  - or makes us of some data to drive the visual
-  - in addition to another source of input such as camera/mic/ml5js
-  - consider accommodation of landscape and portrait screen orientation
+  - changes over time to standalone input in an installation setting
+  - option: uses time as input
+  - option: use url parameters as input
+  - option: use camera/mic/ml5js as input
+  - option: adjust for mobile vs. desktop screen orientation
 
 - add a link to your sketch on the [wiki home page](https://github.com/p5videoKit/IM-Screens-2026-03-itp/wiki#week-03-homework)
   - also make the p5js sketch available via your github repo as github pages
