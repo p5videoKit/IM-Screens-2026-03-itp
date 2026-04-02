@@ -2,6 +2,12 @@
 
 ## [[Previous](./02_code.md)] [[Next](./04_video.md)]
 
+## Review
+
+- use p5mirror
+- [p5mirror](https://github.com/molab-itp/p5mirror)
+  -- download your editor.p5js sketches into your git repo
+
 ## ims-2026-jht-nyu
 
 - clone ims-2026-jht-nyu for review
@@ -10,35 +16,31 @@
 
 ## Using Time
 
-```
+- https://editor.p5js.org/jht9629-nyu/sketches/i6akdNRS2
+  - video scan radial v7
+    - secsDelta += deltaTime / 1000;
 
-// https://editor.p5js.org/jht9629-nyu/sketches/i6akdNRS2
-// video scan radial v7
-  secsDelta += deltaTime / 1000;
+- https://editor.p5js.org/jht9629-nyu/sketches/2bjn_Nn9x
+  - video scan radial v8
 
-// https://editor.p5js.org/jht9629-nyu/sketches/2bjn_Nn9x
-// video scan radial v8
+- https://editor.p5js.org/jht9629-nyu/sketches/3VKJ-q8ar
+  - ims03-jht scrolling color bars
+  - color pops on at wrap around - no rate regulation
 
-// https://editor.p5js.org/jht9629-nyu/sketches/3VKJ-q8ar
-// ims03-jht scrolling color bars
-// color pops on at wrap around - no rate regulation
+- https://editor.p5js.org/jht9629-nyu/sketches/ZpoPuHXRo
+- ims04-jht scroll color bars - no pop
 
-// https://editor.p5js.org/jht9629-nyu/sketches/ZpoPuHXRo
-// ims04-jht scroll color bars - no pop
+- https://editor.p5js.org/jht9629-nyu/sketches/2pxhnehBV
+  - ims04-jht scroll color rate
+  - rate adjusted to achieve complete
+  - scroll in my.scrollSeconds
+  - https://p5js.org/reference/#/p5/deltaTime
+    - let deltaSecs = deltaTime / 1000
+    - my.xstep = width \* deltaSecs / my.scrollSeconds;
 
-// https://editor.p5js.org/jht9629-nyu/sketches/2pxhnehBV
-// ims04-jht scroll color rate
-// rate adjusted to achieve complete
-// scroll in my.scrollSeconds
-// https://p5js.org/reference/#/p5/deltaTime
-  let deltaSecs = deltaTime / 1000
-  my.xstep = width * deltaSecs / my.scrollSeconds;
-
-// https://editor.p5js.org/jht9629-nyu/sketches/wT957KlMz
-// MazeSpin liberation screens v2
-  let now = millis() / 1000;
-
-```
+- https://editor.p5js.org/jht9629-nyu/sketches/wT957KlMz
+  - MazeSpin liberation screens v2
+    - let now = millis() / 1000;
 
 ## saving data locally
 
