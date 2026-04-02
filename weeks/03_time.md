@@ -90,7 +90,7 @@ Must run locally or in web browser to use url parameters
 
 ## Homework Week03
 
-- Expand your full screen p5js sketch or create a new one to that:
+- Expand your full screen p5js sketch or create a new one that:
   - uses url parameters to control the appearance of your sketch
   - or makes us of some data to drive the visual
   - in addition to another source of input such as camera/mic/ml5js
