@@ -47,24 +47,19 @@ Must run locally or in web browser to use url parameters
 - url param strings
 - localStorage
 
-```
+- https://editor.p5js.org/jht9629-nyu/sketches/I9vT_uniR
+  - get_url_params v2
 
-// https://editor.p5js.org/jht9629-nyu/sketches/I9vT_uniR
-// get_url_params v2
+- https://editor.p5js.org/jht9629-nyu/sketches/qz9-Y-Sc4
+  - localStorage v1
 
-// https://editor.p5js.org/jht9629-nyu/sketches/qz9-Y-Sc4
-// localStorage v1
+- https://editor.p5js.org/jht9629-nyu/sketches/TQyVoswjQ
+  - p5moLibrary DrawPoints
+  - https://molab-itp.github.io/p5moLibrary/src/demo/DrawPoints/?v=65
 
-// https://editor.p5js.org/jht9629-nyu/sketches/TQyVoswjQ
-// p5moLibrary DrawPoints
-// https://molab-itp.github.io/p5moLibrary/src/demo/DrawPoints/?v=65
-
-// https://editor.p5js.org/jht9629-nyu/sketches/iIIAb8KIDr
-// p5moLibrary Astronomical 47
-// https://molab-itp.github.io/p5moLibrary/src/demo/Astronomical/?v=65
-
-
-```
+- https://editor.p5js.org/jht9629-nyu/sketches/iIIAb8KIDr
+  - p5moLibrary Astronomical 47
+  - https://molab-itp.github.io/p5moLibrary/src/demo/Astronomical/?v=65
 
 - [p5moLibrary](https://github.com/molab-itp/p5moLibrary)
 
