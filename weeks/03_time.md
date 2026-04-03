@@ -151,6 +151,6 @@ Must run locally or in web browser to use url parameters
 
 ## Coding Resources
 
-= [Javascript Reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference)
+- [Javascript Reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference)
 
 - [Claude Code for VS Code](https://marketplace.visualstudio.com/items?itemName=anthropic.claude-code)
