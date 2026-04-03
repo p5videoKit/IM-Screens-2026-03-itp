@@ -61,6 +61,7 @@ Must run locally or in web browser to use url parameters
 - https://editor.p5js.org/jht9629-nyu/sketches/qz9-Y-Sc4
   - localStorage v1
 
+<!--
 - https://editor.p5js.org/jht9629-nyu/sketches/TQyVoswjQ
   - p5moLibrary DrawPoints
   - https://molab-itp.github.io/p5moLibrary/src/demo/DrawPoints/?v=65
@@ -70,6 +71,8 @@ Must run locally or in web browser to use url parameters
   - https://molab-itp.github.io/p5moLibrary/src/demo/Astronomical/?v=65
 
 - [p5moLibrary](https://github.com/molab-itp/p5moLibrary)
+
+-->
 
 ## Class Exercise
 
