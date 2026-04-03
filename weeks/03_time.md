@@ -82,7 +82,6 @@ Must run locally or in web browser to use url parameters
 - put homework sketch in your github repo for this class
 - github pages setup
 - add and test sketch get_url_params
-- add and test sketch localStorage
 
 ### update your p5mirror repo
 
@@ -93,9 +92,9 @@ Must run locally or in web browser to use url parameters
 - Expand your full screen p5js sketch or create a new one that:
   - changes over time to standalone input in an installation setting
   - uses time as input
-  - option: use url parameters as input
-  - option: use camera/mic/ml5js as input
-  - option: adjust for mobile vs. desktop screen orientation
+  - optional: use url parameters as input
+  - optional: use camera/mic/ml5js as input
+  - optional: adjust for mobile vs. desktop screen orientation
 
 - add a link to your sketch on the [wiki home page](https://github.com/p5videoKit/IM-Screens-2026-03-itp/wiki#week-03-homework)
   - also make the p5js sketch available via your github repo as github pages
@@ -114,11 +113,23 @@ Must run locally or in web browser to use url parameters
 - [p5mirror](https://github.com/molab-itp/p5mirror)
   - mirror your editor.p5js sketches into a git repo
 
+<!--
 - [p5moExamples](https://github.com/molab-itp/p5moExamples)
   - p5js examples for p5moLibrary
 
 - [p5moLibrary](https://github.com/molab-itp/p5moLibrary)
   - a p5js Library for cloud storage enhanced multi-device experiences
+-->
+
+- [moWebJam](https://github.com/molab-itp/moWebJam)
+  - playlist for url installations
+  - TRY: adding class sketches
+
+- [faceMesh](https://github.com/jht9629-nyu/faceMesh)
+  - faceMesh on the floor use moLib to store images
+
+- [moLib](https://github.com/molab-itp/moLib)
+  - multi-device experiences from handheld small screens
 
 - [p5VideoKit](https://github.com/molab-itp/p5videoKit)
-  - a dashboard for mixing video in the browser.
+  - buid as an npm package library
