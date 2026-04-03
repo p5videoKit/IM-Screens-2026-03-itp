@@ -128,6 +128,8 @@ Must run locally or in web browser to use url parameters
 
 - [ims-2026-jht-nyu](https://github.com/jht9629-nyu/ims-2026-jht.git)
 
+- [p5mirror-jht9629-nyu repo](https://github.com/jht9629-nyu/p5mirror-jht9629-nyu)
+
 <!--
 - [p5moExamples](https://github.com/molab-itp/p5moExamples)
   - p5js examples for p5moLibrary
