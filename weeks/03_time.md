@@ -92,7 +92,7 @@ Must run locally or in web browser to use url parameters
 
 - Expand your full screen p5js sketch or create a new one that:
   - changes over time to standalone input in an installation setting
-  - option: uses time as input
+  - uses time as input
   - option: use url parameters as input
   - option: use camera/mic/ml5js as input
   - option: adjust for mobile vs. desktop screen orientation
