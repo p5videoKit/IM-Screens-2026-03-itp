@@ -132,4 +132,4 @@ Must run locally or in web browser to use url parameters
   - multi-device experiences from handheld small screens
 
 - [p5VideoKit](https://github.com/molab-itp/p5videoKit)
-  - buid as an npm package library
+  - built as an npm package library
