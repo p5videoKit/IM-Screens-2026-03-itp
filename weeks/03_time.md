@@ -14,6 +14,9 @@
 
 - [ims-2026-jht-nyu](https://github.com/jht9629-nyu/ims-2026-jht.git)
 
+- [shader-trail](https://jht9629-nyu.github.io/ims-2026-jht/ims02-jht/shader-trail/index.html)
+  - walk thru evolution
+
 ## Using Time
 
 - https://editor.p5js.org/jht9629-nyu/sketches/i6akdNRS2
@@ -133,3 +136,7 @@ Must run locally or in web browser to use url parameters
 
 - [p5VideoKit](https://github.com/molab-itp/p5videoKit)
   - built as an npm package library
+
+## AI
+
+- [Claude Code for VS Code](https://marketplace.visualstudio.com/items?itemName=anthropic.claude-code)
