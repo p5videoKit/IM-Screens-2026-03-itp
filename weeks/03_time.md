@@ -93,6 +93,11 @@ Must run locally or in web browser to use url parameters
 
 - run and commit your p5mirror repo
 
+### remote access to screens
+
+- [Screen Sharing Doc 2026](https://docs.google.com/document/d/17vfJ6A2NF8KMfj9lHqen75oGa10VW82NCcCyYfld9iE/edit?tab=t.0)
+  - test access
+
 ## Homework Week03
 
 - Expand your full screen p5js sketch or create a new one that:
