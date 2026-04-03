@@ -110,7 +110,7 @@ Must run locally or in web browser to use url parameters
   - optional: adjust for mobile vs. desktop screen orientation
 
 - add a link to your sketch on the [wiki home page](https://github.com/p5videoKit/IM-Screens-2026-03-itp/wiki#week-03-homework)
-  - also make the p5js sketch available via your github repo as github pages
+  - make the p5js sketch available via your github repo as github pages
   - be sure to include all atributions (eg. links to source sketch, ai chat prompts, etc.)
 
 - enter any questions or notes on your wiki page
