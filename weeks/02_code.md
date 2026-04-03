@@ -4,7 +4,7 @@
 
 ## Share those Screens!
 
-- [IMS-JHT-Screens](https://docs.google.com/document/d/1XbKeQlDSPVh0-DACXFnACqyr3AC_mjU5gd40PQ97um8)
+<!-- - [IMS-JHT-Screens](https://docs.google.com/document/d/1XbKeQlDSPVh0-DACXFnACqyr3AC_mjU5gd40PQ97um8) -->
 
 - [Apple docs for connecting to installation computers via Screen Sharing](https://support.apple.com/guide/mac-help/share-the-screen-of-another-mac-mh14066/mac)
 

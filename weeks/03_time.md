@@ -98,6 +98,8 @@ Must run locally or in web browser to use url parameters
 - [Screen Sharing Doc 2026](https://docs.google.com/document/d/17vfJ6A2NF8KMfj9lHqen75oGa10VW82NCcCyYfld9iE/edit?tab=t.0)
   - test access
 
+- [Apple docs for connecting to installation computers via Screen Sharing](https://support.apple.com/guide/mac-help/share-the-screen-of-another-mac-mh14066/mac)
+
 ## Homework Week03
 
 - Expand your full screen p5js sketch or create a new one that:
