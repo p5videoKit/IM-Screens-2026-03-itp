@@ -116,6 +116,8 @@ Must run locally or in web browser to use url parameters
 - [p5mirror](https://github.com/molab-itp/p5mirror)
   - mirror your editor.p5js sketches into a git repo
 
+- [ims-2026-jht-nyu](https://github.com/jht9629-nyu/ims-2026-jht.git)
+
 <!--
 - [p5moExamples](https://github.com/molab-itp/p5moExamples)
   - p5js examples for p5moLibrary
