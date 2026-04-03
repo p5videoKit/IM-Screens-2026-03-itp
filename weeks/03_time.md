@@ -149,6 +149,8 @@ Must run locally or in web browser to use url parameters
 - [p5VideoKit](https://github.com/molab-itp/p5videoKit)
   - built as an npm package library
 
-## AI
+## Coding help
+
+= [Javascript Reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference)
 
 - [Claude Code for VS Code](https://marketplace.visualstudio.com/items?itemName=anthropic.claude-code)
