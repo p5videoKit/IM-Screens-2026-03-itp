@@ -146,8 +146,10 @@ Must run locally or in web browser to use url parameters
 - [moLib](https://github.com/molab-itp/moLib)
   - multi-device experiences from handheld small screens
 
-- [p5VideoKit](https://github.com/molab-itp/p5videoKit)
-  - built as an npm package library
+- [covid19-ticker](https://github.com/p5videoKit/covid19-ticker.git)
+  - uses p5VideoKit as library
+  - [p5VideoKit](https://github.com/molab-itp/p5videoKit)
+    - built as an npm package library
 
 ## Coding Resources
 
