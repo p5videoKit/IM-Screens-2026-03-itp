@@ -87,7 +87,8 @@ thereby collaborating on real time creation of “digital graffiti”.
 
 ## Extra Support
 
-- [My Office hours:](https://calendar.app.google/EWigTzkMnFDq7gFj6)
+- [My Office hours:](https://calendar.app.google/TiQYDABAKEENDjgm9)
+  <!-- - [My Office hours:](https://calendar.app.google/EWigTzkMnFDq7gFj6) -->
   - Please book a time slot at least 24 hours before the time slot.
   - if these time slots don't work for you email me your availablity for other times to meet.
 
