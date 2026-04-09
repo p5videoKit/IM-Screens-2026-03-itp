@@ -4,6 +4,8 @@
 
 ## Homework review
 
+- what's on the screens
+
 - questions
 
 - workflow
@@ -82,9 +84,9 @@ interactive multi-screen experiences on handheld and large screens
 - [p5mirror-jht9629-nyu](https://jht9629-nyu.github.io/p5mirror-jht9629-nyu/downloads/gen/sketches_recent.html)
 
 - [my repo - ims-2026-jht-nyu](https://github.com/jht9629-nyu/ims-2026-jht)
-  - explore managing revisions with branches
+  - use branches for experiments
   - merge experiments into main branch
-  - use of AI locally
+  - experiments can be AI chat
 
 ## Exercise: terminal basics
 
