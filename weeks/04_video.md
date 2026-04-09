@@ -85,6 +85,30 @@ interactive multi-screen experiences on handheld and large screens
   - explore managing revisions with branches
   - use of AI locally
 
+- terminal basics
+
+```
+ls -l
+more
+pwd
+cd
+cp
+du -sh .
+```
+
+## Class Exercise - open source colab
+
+- filing p5 editor issue
+
+```
+https://editor.p5js.org/about
+[] log download name issue
+>> bottom of screen for
+https://github.com/processing/p5.js/releases
+https://github.com/processing/p5.js-web-editor/releases
+
+```
+
 ## Homework Week04
 
 - prepare your final project proposal
@@ -101,6 +125,7 @@ interactive multi-screen experiences on handheld and large screens
   - build on the moSalon to create small screen + big screen experience
 
 - optional -
+  - use videoKit-plugin-example
   - contribute to p5VideoKit
   - Fork p5VideoKit and create a plugin
   - give feedback via p5VideoKit issues
