@@ -10,6 +10,9 @@
 
 ## What's new
 
+- [My Office hours:](https://calendar.app.google/TiQYDABAKEENDjgm9)
+  - new link and expanded hours
+
 - videoKit
 
 - cloud data with firebase
