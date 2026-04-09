@@ -13,6 +13,8 @@
 - [My Office hours:](https://calendar.app.google/TiQYDABAKEENDjgm9)
   - new link and expanded hours
 
+- [2026-IMS-Screen-Sharing-Doc](https://docs.google.com/document/d/17vfJ6A2NF8KMfj9lHqen75oGa10VW82NCcCyYfld9iE/edit?tab=t.0#heading=h.f3fo6owinjge)
+
 - videoKit
 
 - cloud data with firebase
@@ -21,7 +23,7 @@
 
 - exercises for git repo usage
 
-## Class Exercise - your repo setup
+## Exercise: setup your repo
 
 - add a sketch to your ims class repo
 - put a link to your repo on your wiki page
@@ -51,14 +53,6 @@
 - [live-tile-6x3-face-mesh](https://jht1493.net/p5VideoKit/demo/?a=%7B%22setting%22%3A%22live-tile-6x3-face-mesh%22%2C%22comment%22%3A%22live-tile-6x3-face-mesh%22%2C%22back_color%22%3A200%2C%22room_name%22%3A%22VideoKit-SkinTone2%22%2C%22patch_layout%22%3A%22Single%22%2C%22canvas_size%22%3A%22960x540%22%2C%22capture_size%22%3A%22default%22%2C%22render_size%22%3A%22Canvas%22%2C%22chat_name%22%3A%22jht%22%2C%22chat_chk%22%3A0%2C%22live_index%22%3A0%2C%22live_chk%22%3A1%2C%22urects_lock%22%3A0%2C%22urects_count%22%3A1%2C%22canvas_resize_ref%22%3A%22%22%2C%22canvas_data_chk%22%3A1%2C%22mediaDiv_states%22%3A%5Bnull%2C%7B%22vis%22%3A0%2C%22mute%22%3A1%7D%2C%7B%22vis%22%3A0%2C%22mute%22%3A1%7D%5D%2C%22patches%22%3A%5B%7B%22eff_spec%22%3A%7B%22ipatch%22%3A0%2C%22imedia%22%3A1%2C%22eff_label%22%3A%22live_tile_host%22%2C%22urect%22%3A%7B%22width%22%3A960%2C%22height%22%3A540%2C%22x0%22%3A0%2C%22y0%22%3A0%7D%7D%2C%22eff_props%22%3A%7B%22ncell%22%3A3%2C%22width_div%22%3A2%2C%22period%22%3A5%2C%22fit%22%3A%22height%22%2C%22showQRCode%22%3A1%2C%22autoHideQRCode%22%3A1%2C%22image_url%22%3A%22.%2Feffects%2Fqrcode0.png%22%2C%22shift%22%3A1%7D%7D%5D%7D)
 
 - [p5LiveMedia repo and examples](https://github.com/vanevery/p5LiveMedia)
-
-<!-- - fork repo to customize
-- examples plugins:
-  - a_example_props
-  - a_slit_scan
-- creating a setting
-- creating a plugin
-- bin/build.sh -->
 
 ## moSalon
 
@@ -114,7 +108,7 @@ cp
 - feature requests
 - bug fixes (code)
 
-### filing p5 editor issue
+### creating a issue: p5 editor
 
 - https://editor.p5js.org/about
 - https://github.com/processing/p5.js/releases
@@ -127,7 +121,7 @@ cp
 
 - https://github.com/processing/p5.js-web-editor/issues?q=is%3Aissue%20state%3Aopen%20download
 
-### filing ml5 issue
+### creating a issue: ml5
 
 - https://github.com/ml5js/ml5-next-gen/issues/302
   - facemesh keypoints NOT aligned with video on mobile device
