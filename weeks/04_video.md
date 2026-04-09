@@ -19,6 +19,8 @@
 
 - moLib / moSalon library for cloud data with firebase
 
+- tips for organizing your code as it grows
+
 - exercises for git repo usage
 
 ## Exercise: setup your repo
