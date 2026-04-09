@@ -15,11 +15,9 @@
 
 - [2026-IMS-Screen-Sharing-Doc](https://docs.google.com/document/d/17vfJ6A2NF8KMfj9lHqen75oGa10VW82NCcCyYfld9iE/edit?tab=t.0#heading=h.f3fo6owinjge)
 
-- videoKit
+- p5videoKit library
 
-- cloud data with firebase
-
-- mo-videoplayer
+- moLib / moSalon library for cloud data with firebase
 
 - exercises for git repo usage
 
