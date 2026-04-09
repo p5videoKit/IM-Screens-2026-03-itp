@@ -77,15 +77,16 @@ interactive multi-screen experiences on handheld and large screens
   - [repo](https://github.com/isohedral/hatviz)
   - [my issue](https://github.com/isohedral/hatviz/issues/6)
 
-## Class Exercise - working with repos
+## Exercise: working with repos
 
 - [p5mirror-jht9629-nyu](https://jht9629-nyu.github.io/p5mirror-jht9629-nyu/downloads/gen/sketches_recent.html)
 
 - [my repo - ims-2026-jht-nyu](https://github.com/jht9629-nyu/ims-2026-jht)
   - explore managing revisions with branches
+  - merge experiments into main branch
   - use of AI locally
 
-- terminal basics
+## Exercise: terminal basics
 
 ```
 ls -l
@@ -96,9 +97,9 @@ cp
 du -sh .
 ```
 
-## Class Exercise - open source colab
+## Exercise: open source community colaboration
 
-- filing p5 editor issue
+### filing p5 editor issue
 
 ```
 https://editor.p5js.org/about
@@ -107,6 +108,14 @@ https://editor.p5js.org/about
 https://github.com/processing/p5.js/releases
 https://github.com/processing/p5.js-web-editor/releases
 
+```
+
+### filing ml5 issue
+
+```
+- https://github.com/ml5js/ml5-next-gen/issues/302
+  - facemesh keypoints NOT aligned with video on mobile device
+# [faceMesh](https://github.com/jht9629-nyu/faceMesh.git)
 ```
 
 ## Homework Week04
