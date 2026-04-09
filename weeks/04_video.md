@@ -88,35 +88,52 @@ interactive multi-screen experiences on handheld and large screens
 
 ## Exercise: terminal basics
 
+- automation using bash scripting
+
 ```
 ls -l
 more
 pwd
-cd
-cp
+cd xxx
+cd ..
 du -sh .
+cp
 ```
 
 ## Exercise: open source community colaboration
 
+### types of contributions
+
+- bug reports
+- feature requests
+- bug fixes (code)
+
 ### filing p5 editor issue
 
-```
-https://editor.p5js.org/about
-[] log download name issue
->> bottom of screen for
-https://github.com/processing/p5.js/releases
-https://github.com/processing/p5.js-web-editor/releases
+- https://editor.p5js.org/about
+- https://github.com/processing/p5.js/releases
+- https://github.com/processing/p5.js-web-editor/releases
 
 ```
+[] log download name issue
+- first search for existing issue
+```
+
+- https://github.com/processing/p5.js-web-editor/issues?q=is%3Aissue%20state%3Aopen%20download
 
 ### filing ml5 issue
 
-```
 - https://github.com/ml5js/ml5-next-gen/issues/302
   - facemesh keypoints NOT aligned with video on mobile device
-# [faceMesh](https://github.com/jht9629-nyu/faceMesh.git)
+  - https://github.com/jht9629-nyu/faceMesh
+
 ```
+- work around required explict use oof older ml5 version
+./src/index.html
+    <script src="https://unpkg.com/ml5@1.2.0/dist/ml5.min.js"></script>
+```
+
+- (faceMesh index.html)[https://github.com/jht9629-nyu/faceMesh/blob/main/src/index.html]
 
 ## Homework Week04
 
@@ -127,6 +144,7 @@ https://github.com/processing/p5.js-web-editor/releases
 
 - be prepared to discuss: Progress / Plans / Problems - summarize on your wiki page
   - option: use your blog for details - put link in wiki page
+
 - optional -
   - create git repo for your final project
 
