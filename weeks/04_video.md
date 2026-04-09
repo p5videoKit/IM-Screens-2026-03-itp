@@ -16,6 +16,8 @@
 
 - mo-videoplayer
 
+- exercises for git repo usage
+
 ## Class Exercise - your repo setup
 
 - add a sketch to your ims class repo
@@ -76,6 +78,7 @@ interactive multi-screen experiences on handheld and large screens
 - source
   - [repo](https://github.com/isohedral/hatviz)
   - [my issue](https://github.com/isohedral/hatviz/issues/6)
+  - [my pull request fix](https://github.com/isohedral/hatviz/pull/3)
 
 ## Exercise: working with repos
 
