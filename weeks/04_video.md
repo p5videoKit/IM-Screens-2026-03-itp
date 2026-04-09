@@ -16,30 +16,13 @@
 
 - mo-videoplayer
 
-## Sketches and repos
+## Class Exercise - your repo setup
 
-- [p5mirror-jht9629-nyu](https://jht9629-nyu.github.io/p5mirror-jht9629-nyu/downloads/gen/sketches_recent.html)
+- add a sketch to your ims class repo
+- put a link to your repo on your wiki page
 
-- [repo - ims-2026-jht-nyu](https://github.com/jht9629-nyu/ims-2026-jht)
-
-- [sketch - ims_week1 v0 Xueyu333 floMirror fix](https://editor.p5js.org/jht9629-nyu/sketches/1MbhCPM60)
-
-<!-- - Pixel manipulation: raw buffers pixels and GLSL shaders -->
-
-<!-- ## nodejs setup
-
-[https://nodejs.org/en/download](https://nodejs.org/en/download)
- -->
-
-<!-- ```
-// https://editor.p5js.org/jht9629-nyu/sketches/7hzeHDSIl
-// 03-jht-hatviz
-
-https://www.youtube.com/watch?v=W-ECvtIA-5A
-Aperiodic monotile animation
-
-https://molab-itp.github.io/moSalon/src/videoplayer/?playlist=W-ECvtIA-5A&title=Aperiodic%20monotile%20animation
-``` -->
+- example sketch
+  - [sketch - ims_week1 v0 Xueyu333 floMirror fix](https://editor.p5js.org/jht9629-nyu/sketches/1MbhCPM60)
 
 ## p5videoKit
 
@@ -94,14 +77,13 @@ interactive multi-screen experiences on handheld and large screens
   - [repo](https://github.com/isohedral/hatviz)
   - [my issue](https://github.com/isohedral/hatviz/issues/6)
 
-<!-- ## p5mo alliance
+## Class Exercise - working with repos
 
-- [p5moExamples](https://github.com/molab-itp/p5moExamples)
+- [p5mirror-jht9629-nyu](https://jht9629-nyu.github.io/p5mirror-jht9629-nyu/downloads/gen/sketches_recent.html)
 
-  - multi-device experiences on handheld and large screens
-  - creating and updating firebase cloud data
-  - p5js examples for p5moLibrary
- -->
+- [my repo - ims-2026-jht-nyu](https://github.com/jht9629-nyu/ims-2026-jht)
+  - explore managing revisions with branches
+  - use of AI locally
 
 ## Homework Week04
 
