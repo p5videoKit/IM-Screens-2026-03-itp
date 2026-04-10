@@ -39,11 +39,11 @@
 - [p5videoKit repo and demo](https://github.com/molab-itp/p5videoKit)
 
 - [repo - videoKit-plugin-example ](https://github.com/p5videoKit/videoKit-plugin-example)
-  - videoKit from npm package
-  - images stored here [firebase.google](https://console.firebase.google.com/project/molab-485f5/storage/molab-485f5.appspot.com/files/~2Fm0-@r-@w-~2Fmo-example~2Fm0-example~2F4eBE3Y2EJbU2V1NgP5P8oGqvkGj1)
+  - videoKit library as npm package
+  <!-- - images stored here [firebase.google](https://console.firebase.google.com/project/molab-485f5/storage/molab-485f5.appspot.com/files/~2Fm0-@r-@w-~2Fmo-example~2Fm0-example~2F4eBE3Y2EJbU2V1NgP5P8oGqvkGj1) -->
 
 - [sketch - p5moRelease videoKit 370 v1](https://editor.p5js.org/jht9629-nyu/sketches/xSrdePcOW)
-  - videoKit hosted github pages
+  - prior version: videoKit library hosted github pages
 
 <!-- - [skin-tone-main-qr](https://jht1493.net/p5VideoKit/demo/index.html?u=12&d=videoKit/settings/2022-skin-tone/skin-tone-main-qr.json) -->
 
@@ -67,6 +67,7 @@ interactive multi-screen experiences on handheld and large screens
 ### photo-booth example
 
 - [moSalon photo-booth pages](https://molab-itp.github.io/moSalon/src/photo-booth/?v=45)
+- [firebase storage console](https://console.firebase.google.com/project/molab-485f5/storage/molab-485f5.appspot.com/files/~2Fm0-@r-@w-~2Fmo-photo~2Fm0-photo~2Fax8gp2gZj1U8JZfzTfTF8sU36A73)
 
 ### Aperiodic monotile videoplayer example
 
@@ -108,8 +109,8 @@ cp
 ### types of contributions
 
 - bug reports
-- feature requests
 - bug fixes (code)
+- feature requests
 
 ### creating a issue: p5 editor
 
@@ -131,7 +132,7 @@ cp
   - https://github.com/jht9629-nyu/faceMesh
 
 ```
-- work around required explict use oof older ml5 version
+- work around required explict use for older ml5 version
 ./src/index.html
     <script src="https://unpkg.com/ml5@1.2.0/dist/ml5.min.js"></script>
 ```
