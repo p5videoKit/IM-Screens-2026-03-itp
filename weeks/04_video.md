@@ -44,7 +44,7 @@
   <!-- - images stored here [firebase.google](https://console.firebase.google.com/project/molab-485f5/storage/molab-485f5.appspot.com/files/~2Fm0-@r-@w-~2Fmo-example~2Fm0-example~2F4eBE3Y2EJbU2V1NgP5P8oGqvkGj1) -->
 
 - [sketch - p5moRelease videoKit 370 v1](https://editor.p5js.org/jht9629-nyu/sketches/xSrdePcOW)
-  - prior version: videoKit library hosted github pages
+  - prior version: videoKit library hosted on github pages
 
 <!-- - [skin-tone-main-qr](https://jht1493.net/p5VideoKit/demo/index.html?u=12&d=videoKit/settings/2022-skin-tone/skin-tone-main-qr.json) -->
 
