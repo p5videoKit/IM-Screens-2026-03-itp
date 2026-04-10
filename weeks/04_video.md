@@ -18,9 +18,9 @@
 
 - [2026-IMS-Screen-Sharing-Doc](https://docs.google.com/document/d/17vfJ6A2NF8KMfj9lHqen75oGa10VW82NCcCyYfld9iE/edit?tab=t.0#heading=h.f3fo6owinjge)
 
-- p5videoKit library
+- p5videoKit library for video effects
 
-- moLib / moSalon library for cloud data with firebase
+- moSalon library for cloud storage and realtime communication
 
 - tips for organizing your code as it grows
 
@@ -60,7 +60,8 @@
 
 ## moSalon
 
-interactive multi-screen experiences on handheld and large screens
+- interactive multi-screen experiences on handheld and large screens
+- uses firebase backend for realtime communication and storage
 
 - [moSalon pages](https://molab-itp.github.io/moSalon)
 - [moSalon github](https://github.com/molab-itp/moSalon)
@@ -142,30 +143,36 @@ cp
 
 ## Homework Week04
 
+- add a link to your class git repo [on your wiki page](https://github.com/p5videoKit/IM-Screens-2026-03-itp/wiki)
+
 - prepare your final project proposal
   - describe on your wiki page what p5js interactive experience you hope to build over the next 3 weeks.
   - you can build on any of the resources covered in class or one that you've found
-  - provide links to any work you use
+  - ask you work provide links to any of your sources
 
-- be prepared to discuss: Progress / Plans / Problems - summarize on your wiki page
+- be prepared to discuss: Progress / Plans / Problems
+  - summarize on your wiki page
   - option: use your blog for details - put link in wiki page
 
-- optional -
-  - create git repo for your final project
+- create git repo for your final project
+  - OR: use your class repo
 
 - optional -
-  - build on the moSalon to create small screen + big screen experience
-
-- optional -
+  - contribute to p5videoKit library
   - use videoKit-plugin-example
-  - contribute to p5VideoKit
   - Fork p5VideoKit and create a plugin
   - give feedback via p5VideoKit issues
   - pull request to add your plugin
 
-- add a link to your sketch or git repo on the [wiki home page](https://github.com/p5videoKit/IM-Screens-2026-03-itp/wiki#week-04-homework)
+- optional -
+  - contribute to moSalon library
+  - build on the moSalon to create interactive experience using firebase backend
+    - create issues to report issues
+    - OR: suggest features
+    - OR: create new features
+    - OR: write documentation and new/update examples
 
-- give a brief summary of on your wiki page for the past 4 weeks
+<!-- - give a brief summary of on your wiki page for the past 4 weeks
 - enter any questions or notes on your wiki page
 - or use your fav blogging tool for your questions and notes
-- and link to it from your wiki page
+- and link to it from your wiki page -->
