@@ -14,6 +14,7 @@
 
 - [My Office hours:](https://calendar.app.google/TiQYDABAKEENDjgm9)
   - new link and expanded hours
+  - [why?](https://jht1493.net/johnhenrythompson/0-refections-on-learning.html)
 
 - [2026-IMS-Screen-Sharing-Doc](https://docs.google.com/document/d/17vfJ6A2NF8KMfj9lHqen75oGa10VW82NCcCyYfld9iE/edit?tab=t.0#heading=h.f3fo6owinjge)
 
