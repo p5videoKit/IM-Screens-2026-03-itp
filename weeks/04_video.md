@@ -137,7 +137,7 @@ cp
     <script src="https://unpkg.com/ml5@1.2.0/dist/ml5.min.js"></script>
 ```
 
-- (faceMesh index.html)[https://github.com/jht9629-nyu/faceMesh/blob/main/src/index.html]
+- [faceMesh index.html](https://github.com/jht9629-nyu/faceMesh/blob/main/src/index.html)
 
 ## Homework Week04
 
