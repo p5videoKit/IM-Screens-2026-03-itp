@@ -148,7 +148,7 @@ cp
 - prepare your final project proposal
   - describe on your wiki page what p5js interactive experience you hope to build over the next 3 weeks.
   - you can build on any of the resources covered in class or one that you've found
-  - ask you work provide links to any of your sources
+  - provide links to any of your sources
 
 - be prepared to discuss: Progress / Plans / Problems
   - summarize on your wiki page
