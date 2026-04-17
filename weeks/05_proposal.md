@@ -6,13 +6,23 @@
 
 - status of your final project
 
+## Guest
+
+- Yu Lee
+- [nyc-map (Safari)](https://itp.nyu.edu/covid19impactproject/nyc-map/)
+
 ## p5mirror check
 
 - [run your p5mirror fork update](https://github.com/molab-itp/p5mirror/forks?include=active%2Cnetwork&page=1&period=2y&sort_by=last_updated)
 
+## Review
+
+- [ims-2026-jht-nyu week04](https://github.com/jht9629-nyu/ims-2026-jht?tab=readme-ov-file#week04)
+  - openprocessing sketch expanded and enhanced
+
 ## What's new
 
-- [ims-2026-jht-nyu](https://github.com/jht9629-nyu/ims-2026-jht?tab=readme-ov-file#week05)
+- [ims-2026-jht-nyu week05](https://github.com/jht9629-nyu/ims-2026-jht?tab=readme-ov-file#week05)
   - ims05/sliding_window
   - ims05/video_shader
     - examples for Yu Lee's
