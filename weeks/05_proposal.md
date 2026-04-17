@@ -27,6 +27,7 @@
   - p5videoKit plug in example using unpkg.com/p5-video-kit library
   - issue addressed
     - https://github.com/p5videoKit/videoKit-plugin-example/issues/1
+  - walk thru effects
 
 ### moSalon
 
