@@ -14,42 +14,20 @@
 
 - [ims-2026-jht-nyu](https://github.com/jht9629-nyu/ims-2026-jht)
 
-### lib videoKit v1
+### using videoKit library in p5js editor
 
-```
-// https://editor.p5js.org/jht9629-nyu/sketches/CAtSXsCDI
-// lib videoKit v1
-// eff_simplix.js is use to mix live video with another effect
-```
+- https://editor.p5js.org/jht9629-nyu/sketches/CAtSXsCDI
+  - eff_simplix.js is use to mix live video with another effect
 
-### Transience omi v1
+### videoKit plugin examples
 
-```
-// https://editor.p5js.org/jht9629-nyu/sketches/P_fljj9ev
-// Transience omi v1
-// createGraphics use to scale video
-// to full screen with correct aspect ratio
+- https://github.com/p5videoKit/videoKit-plugin-example.git
+  - p5videoKit plug in example using unpkg.com/p5-video-kit library
 
-// https://omibahuguna.github.io/ims-2026-omi/Transience/
-```
+### moSalon
 
-### multi-video key start v7
-
-```
-// https://editor.p5js.org/jht9629-nyu/sketches/nDXZJsqoY
-// multi-video key start v7
-// preload vs. completion call back
-
-// keys to start/stop video 1,2 | 3,4 | 5,6 | 7,8 | 9,0 | -,=
-// 6 videos are layout in top quarter of canvas
-// space key OR mouse press to show next 1 of 12 videos
-// video is displayed centered in the window
-// console.log must be used sparingly, affects performance
-```
-
-## moSalon
-
-interactive multi-screen experiences on handheld and large screens
+- interactive multi-screen experiences on handheld and large screens
+  - using firebase for storage and syncing
 
 - [comments](https://molab-itp.github.io/moSalon/src/comments/?v=50)
 - [photo-booth](https://molab-itp.github.io/moSalon/src/photo-booth/?v=50)
@@ -75,7 +53,35 @@ interactive multi-screen experiences on handheld and large screens
 - [vite-p5-devo](https://github.com/p5videoKit/vite-p5-devo)
   - using bundler to create app for distribution
 
-<!-- ## maze bits evolution
+<!--
+### Transience omi v1
+
+```
+// https://editor.p5js.org/jht9629-nyu/sketches/P_fljj9ev
+// Transience omi v1
+// createGraphics use to scale video
+// to full screen with correct aspect ratio
+
+// https://omibahuguna.github.io/ims-2026-omi/Transience/
+```
+
+### multi-video key start v7
+
+```
+// https://editor.p5js.org/jht9629-nyu/sketches/nDXZJsqoY
+// multi-video key start v7
+// preload vs. completion call back
+
+// keys to start/stop video 1,2 | 3,4 | 5,6 | 7,8 | 9,0 | -,=
+// 6 videos are layout in top quarter of canvas
+// space key OR mouse press to show next 1 of 12 videos
+// video is displayed centered in the window
+// console.log must be used sparingly, affects performance
+```
+-->
+
+<!--
+## maze bits evolution
 
 ```
 // evolving from previous maze tile bits example
