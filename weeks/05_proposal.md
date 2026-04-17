@@ -88,7 +88,7 @@
   - hosting on vercel.com
   - alternative to p5js.editor and github pages
   - free hosting of private repo
-  - why do i can about privacy?
+  - why do i care about privacy?
     - https://github.com/Woke-Mind/Movement
     - https://woke-mind.github.io/Movement/aaa/news/A%20Hidden%20Camera%20Protest%20Turned%20the%20Tables%20on%20China%E2%80%99s%20Surveillance%20State%20-%20The%20New%20York%20Times.html
 
