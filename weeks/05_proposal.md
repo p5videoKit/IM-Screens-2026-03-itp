@@ -8,7 +8,7 @@
 
 ## Guest
 
-- Yu Lee
+- [Yu Lee](https://lee.yu-y.ing/)
 - [nyc-map (Safari)](https://itp.nyu.edu/covid19impactproject/nyc-map/)
 
 ## p5mirror check
@@ -65,6 +65,8 @@
 - add a link to your sketch or git repo on the [wiki home page](https://github.com/p5videoKit/IM-Screens-2026-03-itp/wiki#week-05-homework)
 
 ## Resources
+
+- [ml5js](https://ml5js.org/)
 
 - https://github.com/jackbdu/mandarinizer
   - https://github.com/jackbdu/mandarinizer/commits/gh-pages
