@@ -15,6 +15,7 @@
 - [ims-2026-jht-nyu](https://github.com/jht9629-nyu/ims-2026-jht)
   - ims05/sliding_window
   - ims05/video_shader
+    - examples for Yu Lee's
 
 ### using videoKit library in p5js editor
 
@@ -55,8 +56,26 @@
 
 ## Resources
 
+- https://github.com/jackbdu/mandarinizer
+  - https://github.com/jackbdu/mandarinizer/commits/gh-pages
+    - web app in gh-pages branch
+
+## Hosting options
+
+- github pages
+- AWS instance
+- firebase.com
+- vercel.com
+- digitalocean.com
+- others? let me know
+
+### vercel.com
+
 - [vite-p5-devo](https://github.com/p5videoKit/vite-p5-devo)
   - using bundler to create app for distribution
+  - hosting on vercel.com
+  - alternative to p5js.editor and github pages
+  - free hosting of private repo
 
 <!--
 ### Transience omi v1
