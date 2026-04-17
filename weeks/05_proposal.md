@@ -12,7 +12,7 @@
 
 ## What's new
 
-- [ims-2026-jht-nyu](https://github.com/jht9629-nyu/ims-2026-jht)
+- [ims-2026-jht-nyu](https://github.com/jht9629-nyu/ims-2026-jht?tab=readme-ov-file#week05)
   - ims05/sliding_window
   - ims05/video_shader
     - examples for Yu Lee's
@@ -76,6 +76,9 @@
   - hosting on vercel.com
   - alternative to p5js.editor and github pages
   - free hosting of private repo
+  - why do i can about privacy?
+    - https://github.com/Woke-Mind/Movement
+    - https://woke-mind.github.io/Movement/aaa/news/A%20Hidden%20Camera%20Protest%20Turned%20the%20Tables%20on%20China%E2%80%99s%20Surveillance%20State%20-%20The%20New%20York%20Times.html
 
 <!--
 ### Transience omi v1
