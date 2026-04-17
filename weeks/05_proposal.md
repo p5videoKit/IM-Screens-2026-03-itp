@@ -13,6 +13,8 @@
 ## What's new
 
 - [ims-2026-jht-nyu](https://github.com/jht9629-nyu/ims-2026-jht)
+  - ims05/sliding_window
+  - ims05/video_shader
 
 ### using videoKit library in p5js editor
 
@@ -23,6 +25,8 @@
 
 - https://github.com/p5videoKit/videoKit-plugin-example.git
   - p5videoKit plug in example using unpkg.com/p5-video-kit library
+  - issue addressed
+    - https://github.com/p5videoKit/videoKit-plugin-example/issues/1
 
 ### moSalon
 
