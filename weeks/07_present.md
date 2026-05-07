@@ -15,8 +15,11 @@
 - [faceMesh bundle with rollup](https://github.com/jht9629-nyu/faceMesh)
   - Using AI to config bundle build
 
+- [covid19impactproject](https://itp.nyu.edu/covid19impactproject/)
 - [covid19-dashboard 2021](https://itp.nyu.edu/covid19impactproject/covid19-dashboard/)
   - [deploy to jht1493.net hosted by Amazon Web Services (AWS)](https://jht1493.net/COVID-19-Impact/Dashboard/a0/)
   - [source](https://github.com/EP-Visual-Design/COVID-19-Impact-Project)
   - [2026 dashboard update by Shouyue (Lucas) Wu](https://github.com/Mr-speakless/ITP-dataVisualize-dashboard)
     - Assisted by AI. deploy to github pages
+- [2023 covid19 ticker](https://jht1493.net/p5VideoKit/demo/index.html?hide=1&u=2023-04-30&d=videoKit/settings/2023/covid-ticker.json)
+  - [2025 covid19 ticker](https://github.com/p5videoKit/covid19-ticker)
